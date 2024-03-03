@@ -13,7 +13,7 @@ AUTHOR = "----------"
 REQUIRES_PYTHON = ">=3.7.0"
 
 
-# The rest no need to touch too much :)
+# The rest no need to touchtoo much :)
 # ------------------------------------------------
 # Except, perhaps the License and Trove Classifiers!
 # Trove Classifiers: https://pypi.org/classifiers/
