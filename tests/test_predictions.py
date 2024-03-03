@@ -1,5 +1,5 @@
 """
-Note: These tests will fail if you have not first trained the model.
+Note: These tests will fail if you have not first trained the model
 """
 import sys
 from pathlib import Path
