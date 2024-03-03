@@ -1,4 +1,4 @@
-# pull python base image
+# pull python base images
 FROM python:3.10
 # copy application files
 ADD /bikeshare_model_api /bikeshare_model_api/
