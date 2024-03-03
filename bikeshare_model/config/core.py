@@ -1,4 +1,4 @@
-# Path setup, and access the config.yml file, datasets folder & trained models
+# Path setup, and access the config.yml file, datasets folder & trained model
 import sys
 from pathlib import Path
 file = Path(__file__).resolve()
